@@ -1,0 +1,11 @@
+.main{
+    width: 152px;
+    height: 152px;
+    background-color: red;
+}
+.html{
+    border-radius: 100px;
+    width: 152px;
+    height: 152px;
+    background-color: blue;
+}
